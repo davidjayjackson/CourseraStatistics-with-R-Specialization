@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "a6166321e81ca788",
+    "type": "split",
+    "children": [
+      {
+        "id": "41d5eb8526d9d00f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Statistics-with-R-Specialization.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8316c3bae2c09fda",
+    "type": "split",
+    "children": [
+      {
+        "id": "67e30246929a480c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cf53b325bfbb133",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e22a3ff946a282e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "09ccfb5ea67eb279",
+    "type": "split",
+    "children": [
+      {
+        "id": "0db4d9cd368c248e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df10d1df2be461d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Statistics-with-R-Specialization.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "41d5eb8526d9d00f",
+  "lastOpenFiles": [
+    "Statistics-with-R-Specialization.md",
+    "Bayesian.md",
+    "Probability.md",
+    "Regression.md",
+    "Inferential.md",
+    "Statistics-with-R-Specialization.pdf",
+    "Untitled.md"
+  ]
+}
