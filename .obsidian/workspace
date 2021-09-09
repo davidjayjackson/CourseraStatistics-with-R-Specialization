@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "aa85d527fdf2e1e1",
+        "id": "fbf06badddee59ad",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Statistics-with-R-Specialization.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aa85d527fdf2e1e1",
+  "active": "fbf06badddee59ad",
   "lastOpenFiles": [
     "Statistics-with-R-Specialization.md",
-    "( I.) Probability and R.md",
+    "The TRUTH About STANDING DESKS.md",
+    "Retrospective Study.md",
+    "(II.) Regression.md",
     "( V.) Capstone.md",
+    "( I.) Probability and R.md",
+    "Statistics.md",
     "(IV.) Inferential.md",
     "(III.) Bayesian.md",
-    "(II.) Regression.md",
-    "II. Regression.md",
-    "I. Probability and R.md",
-    "V. Capstone.md",
-    "V.Capstone.md"
+    "II. Regression.md"
   ]
 }
